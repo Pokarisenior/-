@@ -1,1 +1,1 @@
-document.querySelector('#colorText').textContent='カラーコード:';
+document.querySelector('#colorText').textContent = 'カラーコード:';
