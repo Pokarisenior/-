@@ -9,8 +9,8 @@ const colorBg=()=>{
     text.textContent=`カラーコード：${color.value}(black)`;
   }else{
   text.textContent = `カラーコード：${color.value}`;
-  };
-}
+  }
+};
 
 color.addEventListener('input',colorBg);
 
